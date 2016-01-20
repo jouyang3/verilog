@@ -1,2 +1,2 @@
 # verilog
-Repository for Verilog Codes
+Repository for General Purpose Verilog Codes
